@@ -9,4 +9,6 @@
 <프로젝트 개요>
 로그라이크 덱빌딩 게임
 
+![Image](https://github.com/user-attachments/assets/6a6dc12c-50de-475a-9a8a-a917e402003b)
+
 개발일지(팀 블로그) : https://sites.google.com/view/untildone/home
