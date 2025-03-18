@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1100,
+    "name": "STATUS_1100_RUPTURE_NAME",
+    "sprite_name": "",
+    "desc": "STATUS_1100_RUPTURE_DESC",
+    "effect_type": "shieldReduction",
+    "multiplier": 0.5,
+    "duration": 1
+  },
+  {
+    "id": 1101,
+    "name": "STATUS_1101_WEAKSPOT_NAME",
+    "sprite_name": "",
+    "desc": "STATUS_1101_WEAKSPOT_DESC",
+    "effect_type": "damageMultiplier",
+    "multiplier": 0.5,
+    "duration": 1
+  },
+  {
+    "id": 1102,
+    "name": "STATUS_1102_PREHEATING_NAME",
+    "sprite_name": "",
+    "desc": "STATUS_1102_PREHEATING_DESC",
+    "effect_type": "TimeDelay",
+    "multiplier": 0.0,
+    "duration": 1
+  },
+  {
+    "id": 1103,
+    "name": "STATUS_1103_STUN_NAME",
+    "sprite_name": "",
+    "desc": "STATUS_1103_STUN_NAME",
+    "effect_type": "TimeDelay",
+    "multiplier": 0.0,
+    "duration": 1
+  }
+]

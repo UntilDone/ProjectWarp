@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1000,
+    "sprite_name": "502",
+    "name": "EVENT_1000_VOICE_FROM_DARKNESS_NAME",
+    "desc": "EVENT_1000_VOICE_FROM_DARKNESS_DESC",
+    "IsNext": false
+  },
+  {
+    "id": 1001,
+    "sprite_name": "502",
+    "name": "EVENT_1001_COLLAPSED_MIND_NAME",
+    "desc": "EVENT_1001_COLLAPSED_MIND_DESC",
+    "IsNext": false
+  },
+  {
+    "id": 1002,
+    "sprite_name": "502",
+    "name": "EVENT_1002_ENCRYPTED_VAULT_NAME",
+    "desc": "EVENT_1002_ENCRYPTED_VAULT_DESC",
+    "IsNext": false
+  },
+  {
+    "id": 1700,
+    "sprite_name": "",
+    "name": "EVENT_1700_VOICE_FROM_DARKNESS_NAME",
+    "desc": "EVENT_1700_VOICE_FROM_DARKNESS_DESC",
+    "IsNext": true
+  },
+  {
+    "id": 1701,
+    "sprite_name": "",
+    "name": "EVENT_1701_VOICE_FROM_DARKNESS_NAME",
+    "desc": "EVENT_1701_VOICE_FROM_DARKNESS_DESC",
+    "IsNext": true
+  },
+  {
+    "id": 1702,
+    "sprite_name": "",
+    "name": "EVENT_1702_COLLAPSED_MIND_NAME",
+    "desc": "EVENT_1702_COLLAPSED_MIND_DESC",
+    "IsNext": true
+  },
+  {
+    "id": 1703,
+    "sprite_name": "",
+    "name": "EVENT_1703_COLLAPSED_MIND_NAME",
+    "desc": "EVENT_1703_COLLAPSED_MIND_DESC",
+    "IsNext": true
+  },
+  {
+    "id": 1704,
+    "sprite_name": "",
+    "name": "EVENT_1704_ENCRYPTED_VAULT_NAME",
+    "desc": "EVENT_1704_ENCRYPTED_VAULT_DESC",
+    "IsNext": true
+  },
+  {
+    "id": 1705,
+    "sprite_name": "",
+    "name": "EVENT_1705_ENCRYPTED_VAULT_NAME",
+    "desc": "EVENT_1705_ENCRYPTED_VAULT_DESC",
+    "IsNext": true
+  },
+  {
+    "id": 1706,
+    "sprite_name": "",
+    "name": "EVENT_1705_ENCRYPTED_VAULT_NAME",
+    "desc": "EVENT_1706_ENCRYPTED_VAULT_DESC",
+    "IsNext": true
+  }
+]

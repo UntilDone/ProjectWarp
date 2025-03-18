@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1300,
+    "name": "EXPEDITION_MEMBER_1300_MEDIC_NAME",
+    "maxhp": 30,
+    "desc": "EXPEDITION_MEMBER_1300_MEDIC_DESC"
+  },
+  {
+    "id": 1301,
+    "name": "EXPEDITION_MEMBER_1301_GUNNER_NAME",
+    "maxhp": 40,
+    "desc": "EXPEDITION_MEMBER_1301_GUNNER_DESC"
+  },
+  {
+    "id": 1302,
+    "name": "EXPEDITION_MEMBER_1302_AUTOMATON_NAME",
+    "maxhp": 60,
+    "desc": "EXPEDITION_MEMBER_1302_AUTOMATON_DESC"
+  }
+]

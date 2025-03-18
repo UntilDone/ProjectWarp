@@ -1,0 +1,74 @@
+{
+  "playerData": {
+    "1": {
+      "id": 1,
+      "name": "default_name",
+      "watch": null,
+      "current_hp": 80,
+      "max_hp": 80,
+      "cost": 3
+    }
+  },
+  "statusData": {
+    "1101": {
+      "id": 1101,
+      "name": "Rupture",
+      "sprite_name": null,
+      "desc": "Target takes 50% more damage from attacks."
+    }
+  },
+  "monsterData": {
+    "1001": {
+      "id": 1001,
+      "name": "Explorer",
+      "sprite_name": null,
+      "damage": 12,
+      "max_hp": 48
+    },
+    "1002": {
+      "id": 1002,
+      "name": "Twisted Dog",
+      "sprite_name": null,
+      "damage": 7,
+      "max_hp": 22
+    }
+  },
+  "cardData": {
+    "100": {
+      "id": 100,
+      "name": "Strike",
+      "sprite_name": null,
+      "cost": 1,
+      "stat": 6,
+      "desc": "Deal {0} Damage",
+      "unlock": true
+    },
+    "101": {
+      "id": 101,
+      "name": "Defend",
+      "sprite_name": null,
+      "cost": 1,
+      "stat": 5,
+      "desc": "Gain {0} Block",
+      "unlock": true
+    },
+    "102": {
+      "id": 102,
+      "name": "Fire",
+      "sprite_name": null,
+      "cost": 2,
+      "stat": 8,
+      "desc": "Deal {0} Damage, Apply 1 {1}",
+      "unlock": true
+    }
+  },
+  "watchData": {
+    "300": {
+      "id": 300,
+      "name": "TimeFix",
+      "sprite_name": null,
+      "desc": "basic machine",
+      "unlock": true
+    }
+  }
+}

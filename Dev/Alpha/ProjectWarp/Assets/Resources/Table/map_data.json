@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1200,
+    "name": "MAP_1200_BATTLE_NAME",
+    "desc": "MAP_1200_BATTLE_DESC",
+    "stage1_prohability": 61,
+    "stage2_prohability": 61,
+    "stage3_prohability": 61
+  },
+  {
+    "id": 1201,
+    "name": "MAP_1201_ENCOUNTER_NAME",
+    "desc": "MAP_1201_ENCOUNTER_DESC",
+    "stage1_prohability": 22,
+    "stage2_prohability": 22,
+    "stage3_prohability": 22
+  },
+  {
+    "id": 1202,
+    "name": "MAP_1202_VENDINGMACHINE_NAME",
+    "desc": "MAP_1202_VENDINGMACHINE_DESC",
+    "stage1_prohability": 5,
+    "stage2_prohability": 5,
+    "stage3_prohability": 5
+  },
+  {
+    "id": 1203,
+    "name": "MAP_1203_OUTPOST_NAME",
+    "desc": "MAP_1203_OUTPOST_DESC",
+    "stage1_prohability": 12,
+    "stage2_prohability": 12,
+    "stage3_prohability": 12
+  },
+  {
+    "id": 1204,
+    "name": "MAP_1204_BOSS_NAME",
+    "desc": "MAP_1204_BOSS_DESC",
+    "stage1_prohability": 100,
+    "stage2_prohability": 100,
+    "stage3_prohability": 100
+  }
+]

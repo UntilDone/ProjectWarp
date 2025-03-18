@@ -1,0 +1,12 @@
+[
+  {
+    "id": 1,
+    "name": "Null",
+    "watch": "Null",
+    "current_hp": 80,
+    "max_hp": 80,
+    "arm_max": 2,
+    "leg_max": 2,
+    "vial": 0
+  }
+]

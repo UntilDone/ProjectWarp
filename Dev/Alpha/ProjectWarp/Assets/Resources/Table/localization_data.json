@@ -1,0 +1,602 @@
+[
+  {
+    "id": "WATCH_100_STANDARD_NAME",
+    "KR": "표준 규격",
+    "EN": "Standard"
+  },
+  {
+    "id": "WATCH_100_STANDARD_DESC",
+    "KR": "모든 지형에 적응할 수 있는 시간 안정화 장치의 표준 모델",
+    "EN": "Standard Model of Time Stabilizer that can adapt to any terrain."
+  },
+  {
+    "id": "WATCH_101_SCANNER_ENHANCED_NAME",
+    "KR": "스캐너 강화",
+    "EN": "Scanner"
+  },
+  {
+    "id": "WATCH_101_SCANNER_ENHANCED_DESC",
+    "KR": "더 넓은 지역을 스캔할 수 있는 시간 안정화 장치의 스캐너 강화 모델",
+    "EN": "Scanner Enhanced Model of Time Stabilizer that can scan a wider area."
+  },
+  {
+    "id": "WATCH_102_SIGNAL_ENHANCED_NAME",
+    "KR": "통신 강화",
+    "EN": "Detector"
+  },
+  {
+    "id": "WATCH_102_SIGNAL_ENHANCED_DESC",
+    "KR": "본부에서 더 많은 지원을 요청할 수 있는 시간 안정화 장치의 통신 강화 모델",
+    "EN": "Signal Enhanced Model of Time Stabilizer that can request additional support from headquarters."
+  },
+  {
+    "id": "MONSTER_200_SOLDIER_NAME",
+    "KR": "군인",
+    "EN": "Soldier"
+  },
+  {
+    "id": "MONSTER_200_SOLDIER_DESC",
+    "KR": "인간은 가장 두려운 적이다.",
+    "EN": "Human is most Fearist enemy."
+  },
+  {
+    "id": "MONSTER_201_TWISTED_DOG_NAME",
+    "KR": "뒤틀린 개",
+    "EN": "Twisted Dog"
+  },
+  {
+    "id": "MONSTER_201_TWISTED_DOG_DESC",
+    "KR": "이 개들은 위험하다.",
+    "EN": "These dogs are dangerous."
+  },
+  {
+    "id": "MONSTER_202_BLOOMED_ALLIGATOR_NAME",
+    "KR": "만개한 악어",
+    "EN": "Bloomed Alligator"
+  },
+  {
+    "id": "MONSTER_202_BLOOMED_ALLIGATOR_DESC",
+    "KR": "아름답지만 당신을 찢을 것입니다.",
+    "EN": "It is beautiful, but it will tear you apart."
+  },
+  {
+    "id": "MONSTER_222_HUMANIZED_LIZARD_NAME",
+    "KR": "인간화된 도마뱀",
+    "EN": "Humanized Lizard"
+  },
+  {
+    "id": "MONSTER_222_HUMANIZED_LIZARD_DESC",
+    "KR": "위험하고 교활합니다.",
+    "EN": "Dangerous and cunning."
+  },
+  {
+    "id": "MONSTER_223_MADMAN_NAME",
+    "KR": "미쳐버린 자",
+    "EN": "Mad Man"
+  },
+  {
+    "id": "MONSTER_223_MADMAN_DESC",
+    "KR": "이 곳의 변화는 사람들을 미치게한다.",
+    "EN": "This place drives people crazy with its changes."
+  },
+  {
+    "id": "MONSTER_224_KILLER_RABBIT_NAME",
+    "KR": "살인 토끼",
+    "EN": "Killer Rabbit"
+  },
+  {
+    "id": "MONSTER_224_KILLER_RABBIT_DESC",
+    "KR": "수류탄을 무서워 할 것 같아 보인다.",
+    "EN": "It looks like they are afraid of the grenade."
+  },
+  {
+    "id": "MONSTER_225_SWIFT_CLAW_NAME",
+    "KR": "날쌘 발톱",
+    "EN": "Swift Claw"
+  },
+  {
+    "id": "MONSTER_225_SWIFT_CLAW",
+    "KR": "재빠르게 베어내는 곤충입니다.",
+    "EN": "An insect that swiftly slashes."
+  },
+  {
+    "id": "MONSTER_226_WOUNDED_BEAST_NAME",
+    "KR": "상처 입은 야수",
+    "EN": "Wounded Beast"
+  },
+  {
+    "id": "MONSTER_226_WOUNDED_BEAST_DESC",
+    "KR": "상처 입은 야수가 가장 위험하다고들 하지... 이 녀석은 무언가를 찢어발길 준비가 되어 있다.",
+    "EN": "They say a wounded beast is most dangerous... and this one is ready to tear anything apart."
+  },
+  {
+    "id": "CARD_500_STRIKE_NAME",
+    "KR": "타격",
+    "EN": "Strike"
+  },
+  {
+    "id": "CARD_500_STRIKE_DESC",
+    "KR": "피해를 {0} 줍니다.",
+    "EN": "Deal {0} damage."
+  },
+  {
+    "id": "CARD_501_DEFEND_NAME",
+    "KR": "수비",
+    "EN": "Defend"
+  },
+  {
+    "id": "CARD_501_DEFEND_DESC",
+    "KR": "방어도를 {0} 얻습니다.",
+    "EN": "Gain {0} defense."
+  },
+  {
+    "id": "CARD_502_FIRE_NAME",
+    "KR": "사격",
+    "EN": "Fire"
+  },
+  {
+    "id": "CARD_502_FIRE_DESC",
+    "KR": "피해를 {0} 줍니다.\n<animate>{2}</animate>을 {1} 부여합니다.",
+    "EN": "Deal {0} damage.\nApply {1} <animate>{2}</animate>"
+  },
+  {
+    "id": "CARD_503_RELOAD_NAME",
+    "KR": "장전",
+    "EN": "Reload"
+  },
+  {
+    "id": "CARD_503_RELOAD_DESC",
+    "KR": "카드를 {4} 장 뽑습니다.",
+    "EN": "Draw {4} card."
+  },
+  {
+    "id": "CARD_504_SCAN_NAME",
+    "KR": "스캔",
+    "EN": "Scan"
+  },
+  {
+    "id": "CARD_504_SCAN_DESC",
+    "KR": "카드를 {4} 장 뽑습니다.\n<animate>{2}</animate>을 {1} 부여합니다.",
+    "EN": "Draw {4} card.\nApply {1} <animate>{2}</animate>."
+  },
+  {
+    "id": "CARD_505_REQUEST_HEAVY_WEAPON_NAME",
+    "KR": "지원요청 : 중화기",
+    "EN": "Request : Heavy Weapon"
+  },
+  {
+    "id": "CARD_505_REQUEST_HEAVY_WEAPON_DESC",
+    "KR": "피해를 {0} 만큼 {3}번 줍니다.",
+    "EN": "Deal {0} damage {3} times."
+  },
+  {
+    "id": "CARD_506_KICK_NAME",
+    "KR": "발차기",
+    "EN": "Kick"
+  },
+  {
+    "id": "CARD_506_KICK_DESC",
+    "KR": "피해를 {0} 줍니다.\n<animate>{2}</animate>을 {1} 부여합니다.",
+    "EN": "Deal {0} damage.\nApply {1} <animate>{2}</animate>."
+  },
+  {
+    "id": "CARD_507_LEG_TRANSFORM_NAME",
+    "KR": "다리 변화",
+    "EN": "Leg Transform"
+  },
+  {
+    "id": "CARD_507_LEG_TRANSFORM_DESC",
+    "KR": "사용불가\n다리 부위에 부하를 1 받습니다.",
+    "EN": "Unplayable\nTake 1 leg limit burden."
+  },
+  {
+    "id": "CARD_508_BACK_STEP_NAME",
+    "KR": "백스텝",
+    "EN": "Backstep"
+  },
+  {
+    "id": "CARD_508_BACK_STEP_DESC",
+    "KR": "방어도를 {0} 얻습니다.\n카드를 {4} 장 뽑습니다.",
+    "EN": "Gain {0} defense.\nDraw {4} card"
+  },
+  {
+    "id": "CARD_509_GRENADE_NAME",
+    "KR": "수류탄",
+    "EN": "Grenade"
+  },
+  {
+    "id": "CARD_509_GRENADE_DESC",
+    "KR": "적 전체에게 피해를 {0} 줍니다.",
+    "EN": "Deal {0} damage to ALL enemies."
+  },
+  {
+    "id": "EVENT_1000_VOICE_FROM_DARKNESS_NAME",
+    "KR": "어둠 속에서 들려오는 목소리",
+    "EN": "A Voice Heard In The Darkness"
+  },
+  {
+    "id": "EVENT_1000_VOICE_FROM_DARKNESS_DESC",
+    "KR": "짙은 어둠 속에서 목소리가 들려온다. \n\"이리로 오렴...\"\n분명 사람의 것은 아니지만 달콤한 꿀내음처럼 당신을 이끈다.",
+    "EN": "A clear voice echoes from the deep darkness.\n\"Come over to me...\"\nIt is clearly not human, yet it lures you with a sweetness like the scent of honey."
+  },
+  {
+    "id": "EVENT_1400_VOICE_FROM_DARKNESS_BTN1_DESC",
+    "KR": "[다가간다]\n<color=green>대원 획득 오토마톤</color>",
+    "EN": "[Approach]\n<color=green>Gain member Automaton.</color>"
+  },
+  {
+    "id": "EVENT_1401_VOICE_FROM_DARKNESS_BTN2_DESC",
+    "KR": "[통각으로 이겨낸다]\n<color=red>피해를 5 입고</color> <color=green>다리 부위 한도를 1 증가한다.</color>",
+    "EN": "[Overcome Through Pain]\n<color=red>Take 5 damage</color> <color=green>increase Leg limit by 1..</color>"
+  },
+  {
+    "id": "EVENT_1700_VOICE_FROM_DARKNESS_DESC",
+    "KR": "삐걱거리는 로봇이 당신을 바라보며\n웃고있는 듯 느껴진다.\n당신이 무심히 떠나려하자 당신의 뒤를 따라온다.",
+    "EN": "A creaking robot looks at you,\ngiving the impression that it’s smiling.\nAs you casually try to walk away,\nit follows you from behind."
+  },
+  {
+    "id": "EVENT_1701_VOICE_FROM_DARKNESS_DESC",
+    "KR": "당신은 아픔을 참아가며 호기심을 뿌리쳤다.\n미지에서의 호기심은 목숨을 앗아간다.",
+    "EN": "You endured the pain and suppressed your curiosity.\nCuriosity in the unknown can cost you your life."
+  },
+  {
+    "id": "EVENT_1001_COLLAPSED_MIND_NAME",
+    "KR": "무너진 정신",
+    "EN": "Collapsed Mind"
+  },
+  {
+    "id": "EVENT_1001_COLLAPSED_MIND_DESC",
+    "KR": "당신의 눈 앞에 횡설수설하고 있는 대원을 목격한다.\n그 자는 소리를 질렀다.\n\"우리 모두 하나가 될거야!! 우리는 진화할 수 있어!!\"\n이 길을 지나기 위해선 조치를 취해야한다.",
+    "EN": "You witness a crew member babbling incoherently before your eyes.\nThe person shouted:\n\"We will all become one! We can evolve!!\"\nYou must take action to proceed down this path."
+  },
+  {
+    "id": "EVENT_1001_COLLAPSED_MIND_BTN1_DESC",
+    "KR": "[약물을 투여한다]\n<color=red>카드 획득 무작위 뒤틀림 카드</color>",
+    "EN": "Administer medication\n<color=red>Gain 1 random Distorted Card.</color>"
+  },
+  {
+    "id": "EVENT_1001_COLLAPSED_MIND_BTN2_DESC",
+    "KR": "[저격한다]\n<color=green>아무일도 일어나지 않는다.</color>",
+    "EN": "[Snipe]\n<color=green>Nothing happen</color>"
+  },
+  {
+    "id": "EVENT_1001_COLLAPSED_MIND_BTN3_DESC",
+    "KR": "[싸운다]\n<color=red>전투를 시작한다.</color>",
+    "EN": "[Fight]\n<color=red>Battle</color>"
+  },
+  {
+    "id": "EVENT_1002_ENCRYPTED_VAULT_NAME",
+    "KR": "암호화된 금고",
+    "EN": "Encrypted Vault"
+  },
+  {
+    "id": "EVENT_1002_ENCRYPTED_VAULT_DESC",
+    "KR": "버려진 금고가 눈에 들어왔다.\n열어보려고 하니 잠금장치가 걸려있었다.\n열어볼 것인가?",
+    "EN": "A forgotten safe caught your eye.\nWhen you tried to open it, a lock was in place.\nWill you try to open it?"
+  },
+  {
+    "id": "EVENT_1002_ENCRYPTED_VAULT_BTN1_DESC",
+    "KR": "[해킹한다]\n<color=red>10%</color> 확률로 <color=green>랜덤 전설카드를 획득한다.</color>",
+    "EN": "[Hack]\n<color=red>10%</color> chance to <color=green>obtain a random legendary card..</color>"
+  },
+  {
+    "id": "EVENT_1704_ENCRYPTED_VAULT_BTN1_DESC",
+    "KR": "[해킹한다]\n<color=red>20%</color>확률로 <color=green>랜덤 전설카드를 획득한다.</color>",
+    "EN": "[Hack]\n<color=red>20%</color> chance to <color=green>obtain a random legendary card..</color>"
+  },
+  {
+    "id": "EVENT_1705_ENCRYPTED_VAULT_BTN1_DESC",
+    "KR": "[으악!!]\n<color=red>전투를 시작한다.</color>",
+    "EN": "[Ouch!!]\n<color=red>Battle.</color>"
+  },
+  {
+    "id": "EVENT_1702_COLLAPSED_MIND_DESC",
+    "KR": "그가 진정되지만 당신은 메스꺼움을 느낀다.\n약물을 투여하는 과정에서 감염이 된 듯하다.",
+    "EN": "He calms down, but you feel nauseous.\nIt seems you got infected during the medication process."
+  },
+  {
+    "id": "EVENT_1703_COLLAPSED_MIND_DESC",
+    "KR": "그가 쓰러지며 길이 열렸다.\n그의 모습을 보며 죄책감이 등을 타고 올라온다.",
+    "EN": "He collapses, and the path is revealed.\nGuilt crawls up your spine as you look at him."
+  },
+  {
+    "id": "EVENT_1704_ENCRYPTED_VAULT_DESC",
+    "KR": "잠금장치가 풀리지 않는다.\n등 뒤로 시선이 느껴진다.",
+    "EN": "The lock won’t open.\nYou feel a gaze from behind."
+  },
+  {
+    "id": "EVENT_1705_ENCRYPTED_VAULT_DESC",
+    "KR": "경보음이 울리며, 당신의 뒤에서 \n거대한 악어가 당신을 향해 달려온다!",
+    "EN": "The alarm blares, \nand a giant crocodile charges toward you from behind!"
+  },
+  {
+    "id": "EVENT_1706_ENCRYPTED_VAULT_DESC",
+    "KR": "잠금장치가 해제되었다.\n당신은 물자를 챙기고 떠난다.",
+    "EN": "The lock has been released.\nYou gather supplies and leave."
+  },
+  {
+    "id": "EVENT_BTN_LEAVE_DESC",
+    "KR": "[떠난다]",
+    "EN": "[Leave]"
+  },
+  {
+    "id": "STATUS_1100_RUPTURE_NAME",
+    "KR": "파열",
+    "EN": "Rupture"
+  },
+  {
+    "id": "STATUS_1100_RUPTURE_DESC",
+    "KR": "목표에게 25% 더 많은 피해를 줍니다.",
+    "EN": "Target takes 25% more damage from attacks."
+  },
+  {
+    "id": "STATUS_1101_WEAKSPOT_NAME",
+    "KR": "약점",
+    "EN": "WeakSpot"
+  },
+  {
+    "id": "STATUS_1101_WEAKSPOT_DESC",
+    "KR": "목표에게 50% 더 많은 피해를 줍니다.",
+    "EN": "Target takes 50% more damage from attacks."
+  },
+  {
+    "id": "STATUS_1102_PREHEATING_NAME",
+    "KR": "예열",
+    "EN": "Preheating"
+  },
+  {
+    "id": "STATUS_1102_PREHEATING_DESC",
+    "KR": "1턴 후에 작동합니다.",
+    "EN": "Activates after 1 turn."
+  },
+  {
+    "id": "STATUS_1103_STUN_NAME",
+    "KR": "기절",
+    "EN": "Stun"
+  },
+  {
+    "id": "STATUS_1103_STUN_DESC",
+    "KR": "1턴 동안 행동을 제한합니다.",
+    "EN": "Restrict actions for 1 turn."
+  },
+  {
+    "id": "MAP_1200_BATTLE_NAME",
+    "KR": "전투",
+    "EN": "Battle"
+  },
+  {
+    "id": "MAP_1200_BATTLE_DESC",
+    "KR": "적이 공격한다! 충격에 대비해!",
+    "EN": "Enemies are attacking! Prepare for impact!"
+  },
+  {
+    "id": "MAP_1201_ENCOUNTER_NAME",
+    "KR": "조우",
+    "EN": "Encounter"
+  },
+  {
+    "id": "MAP_1201_ENCOUNTER_DESC",
+    "KR": "여기에 무언가가 일어났다.",
+    "EN": "Something happen here"
+  },
+  {
+    "id": "MAP_1202_VENDINGMACHINE_NAME",
+    "KR": "자판기",
+    "EN": "Vending Machine"
+  },
+  {
+    "id": "MAP_1202_VENDINGMACHINE_DESC",
+    "KR": "왜 이 자판기들은 여기서 작동하는 거지?",
+    "EN": "Why these vending machines works here?"
+  },
+  {
+    "id": "MAP_1203_OUTPOST_NAME",
+    "KR": "전초기지",
+    "EN": "Outpost"
+  },
+  {
+    "id": "MAP_1203_OUTPOST_DESC",
+    "KR": "조용한 장소지만 폭풍 전의 고요함처럼 무언가가 나를 응시하는 느낌이다.",
+    "EN": "Quiet place but something gazing me like before the storm"
+  },
+  {
+    "id": "MAP_1204_BOSS_NAME",
+    "KR": "보스",
+    "EN": "Boss"
+  },
+  {
+    "id": "MAP_1204_BOSS_DESC",
+    "KR": "가장 위험한 적과의 접촉! 신께 기도해라!",
+    "EN": "Most dangerous hostile contact! Pray to God!"
+  },
+  {
+    "id": "EXPEDITION_MEMBER_1300_MEDIC_NAME",
+    "KR": "의무관",
+    "EN": "Medic"
+  },
+  {
+    "id": "EXPEDITION_MEMBER_1300_MEDIC_DESC",
+    "KR": "이 위험한 공간에서 유일한 희망입니다.",
+    "EN": "The only hope in this dangerous space."
+  },
+  {
+    "id": "EXPEDITION_MEMBER_1301_GUNNER_NAME",
+    "KR": "사수",
+    "EN": "Gunner"
+  },
+  {
+    "id": "EXPEDITION_MEMBER_1301_GUNNER_DESC",
+    "KR": "다가오는 위협에 버팀목입니다.",
+    "EN": "Pillar against the approaching threat."
+  },
+  {
+    "id": "EXPEDITION_MEMBER_1302_AUTOMATON_NAME",
+    "KR": "오토마톤",
+    "EN": "Automaton"
+  },
+  {
+    "id": "EXPEDITION_MEMBER_1302_AUTOMATON_DESC",
+    "KR": "이상한 기계장치이지만 당신을 따라다닙니다.",
+    "EN": "It's a strange mechanical device, but it follows you around."
+  },
+  {
+    "id": "CARD_RARITY_BASIC",
+    "KR": "기본",
+    "EN": "Basic"
+  },
+  {
+    "id": "CARD_RARITY_COMMON",
+    "KR": "흔함",
+    "EN": "Common"
+  },
+  {
+    "id": "CARD_RARITY_UNCOMMON",
+    "KR": "안흔함",
+    "EN": "Uncommon"
+  },
+  {
+    "id": "CARD_RARITY_RARE",
+    "KR": "희귀",
+    "EN": "Rare"
+  },
+  {
+    "id": "CARD_RARITY_LEGENDARY",
+    "KR": "전설",
+    "EN": "Legendary"
+  },
+  {
+    "id": "CARD_RARITY_SPECIAL",
+    "KR": "특수",
+    "EN": "Special"
+  },
+  {
+    "id": "CARD_TYPE_ATTACK",
+    "KR": "공격",
+    "EN": "Attack"
+  },
+  {
+    "id": "CARD_TYPE_SKILL",
+    "KR": "스킬",
+    "EN": "Skill"
+  },
+  {
+    "id": "CARD_TYPE_DISTORT",
+    "KR": "뒤틀림",
+    "EN": "Distort"
+  },
+  {
+    "id": "CARD_PART_ARM",
+    "KR": "팔",
+    "EN": "Arm"
+  },
+  {
+    "id": "CARD_PART_LEG",
+    "KR": "다리",
+    "EN": "Leg"
+  },
+  {
+    "id": "CARD_PART_TORSO",
+    "KR": "몸통",
+    "EN": "Torso"
+  },
+  {
+    "id": "UI_NEW_GAME",
+    "KR": "새로하기",
+    "EN": "New Game"
+  },
+  {
+    "id": "UI_PROCEED",
+    "KR": "진행",
+    "EN": "Proceed"
+  },
+  {
+    "id": "UI_EVENT",
+    "KR": "이벤트",
+    "EN": "Event"
+  },
+  {
+    "id": "UI_OUTPOST",
+    "KR": "초소",
+    "EN": "Outpost"
+  },
+  {
+    "id": "UI_SHOP",
+    "KR": "상점",
+    "EN": "shop"
+  },
+  {
+    "id": "UI_SETTING",
+    "KR": "설정",
+    "EN": "Settings"
+  },
+  {
+    "id": "UI_LOAD_GAME",
+    "KR": "이어하기",
+    "EN": "Load Game"
+  },
+  {
+    "id": "UI_ABANDON",
+    "KR": "포기",
+    "EN": "Abandon"
+  },
+  {
+    "id": "UI_QUIT",
+    "KR": "종료",
+    "EN": "Quit"
+  },
+  {
+    "id": "UI_TURN_BUTTON",
+    "KR": "턴 종료",
+    "EN": "End Turn"
+  },
+  {
+    "id": "UI_GO_TO_SELECTION",
+    "KR": "클래스 선택으로 이동",
+    "EN": "Go to Selection"
+  },
+  {
+    "id": "UI_CHANGE_LOCALIZATION",
+    "KR": "언어 변경",
+    "EN": "Change Localization"
+  },
+  {
+    "id": "UI_BACK",
+    "KR": "처음으로",
+    "EN": "Go Back"
+  },
+  {
+    "id": "UI_DELETE",
+    "KR": "제거",
+    "EN": "Delete"
+  },
+  {
+    "id": "UI_ADMIN",
+    "KR": "관리",
+    "EN": "Admin"
+  },
+  {
+    "id": "UI_UPGRADE",
+    "KR": "업그레이드",
+    "EN": "Upgrade"
+  },
+  {
+    "id": "UI_REST",
+    "KR": "휴식",
+    "EN": "Rest"
+  },
+  {
+    "id": "UI_LOCALE",
+    "KR": "언어 변경",
+    "EN": "Locale"
+  },
+  {
+    "id": "UI_VIAL",
+    "KR": "약병",
+    "EN": "Vial"
+  },
+  {
+    "id": "UNLOCK_FALSE_DESC",
+    "KR": "아직 밝혀내지 못했습니다.",
+    "EN": "Not discovered yet."
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "id": 100,
+    "name": "WATCH_100_STANDARD_NAME",
+    "sprite_name": "",
+    "desc": "WATCH_100_STANDARD_DESC",
+    "player_maxHp": 80,
+    "attack_id": 500,
+    "attack_amount": 5,
+    "defend_id": 501,
+    "defend_amount": 4,
+    "special_id": 502,
+    "special_amount": 1,
+    "unlock": true
+  },
+  {
+    "id": 101,
+    "name": "WATCH_101_SCANNER_ENHANCED_NAME",
+    "sprite_name": "",
+    "desc": "WATCH_101_SCANNER_ENHANCED_DESC",
+    "player_maxHp": 70,
+    "attack_id": 500,
+    "attack_amount": 5,
+    "defend_id": 501,
+    "defend_amount": 5,
+    "special_id": 504,
+    "special_amount": 1,
+    "unlock": true
+  },
+  {
+    "id": 102,
+    "name": "WATCH_102_SIGNAL_ENHANCED_NAME",
+    "sprite_name": "",
+    "desc": "WATCH_102_SIGNAL_ENHANCED_DESC",
+    "player_maxHp": 70,
+    "attack_id": 500,
+    "attack_amount": 4,
+    "defend_id": 501,
+    "defend_amount": 4,
+    "special_id": 505,
+    "special_amount": 1,
+    "unlock": false
+  }
+]
