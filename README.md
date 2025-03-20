@@ -2,7 +2,17 @@
 
 <사용 기술>
 
-C#, Unity2D
+// C# //
+DOTWeen 클래스를 이용한 카드 연출
+Singleton 클래스를 이용한 Manager 클래스 관리
+
+// Unity2D //
+JSON을 이용한 SAVE & LOAD 시스템
+JSON 데이터를 확인할 수 있는 JSON Viewer Editor Tool
+xml 파일을 CS, JSON 파일로 저장시키는 Excel to CS,JSON Ediotr Tool
+
+// SVN //
+SVN을 사용한 프로젝트 관리
 
 <참여 인원>
 
