@@ -21,7 +21,7 @@
 ### 🎮 Unity2D
 - `JSON`을 활용한 **SAVE & LOAD 시스템**  
 - JSON을 시각적으로 확인할 수 있는 **JSON Viewer Editor Tool**  
-- `XML → C#/JSON`으로 변환하는 **Excel to CS/JSON Tool**  
+- `.xlsx → C#/JSON`으로 변환하는 **Excel to CS/JSON Tool**  
 
 ### 🔁 SVN
 - `SVN`을 사용한 프로젝트 버전 관리  
