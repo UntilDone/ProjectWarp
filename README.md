@@ -55,6 +55,7 @@
 
 ![플레이 영상](https://github.com/user-attachments/assets/6a6dc12c-50de-475a-9a8a-a917e402003b)
 ![플레이 영상](https://github.com/user-attachments/assets/9f89714a-19cd-446d-8bbb-88ed7da6789b)
+![플레이 영상](https://github.com/user-attachments/assets/86d7d730-f634-44d9-ad8f-fa6f8fc74f4b)
 ---
 
 ## 📚 제작 과정  
