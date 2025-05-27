@@ -51,7 +51,6 @@
 ---
 
 ## 🎥 플레이 영상  
-> 플레이 영상은 아래 링크를 참고해주세요:
 
 ![플레이 영상](https://github.com/user-attachments/assets/6a6dc12c-50de-475a-9a8a-a917e402003b)
 ![플레이 영상](https://github.com/user-attachments/assets/9f89714a-19cd-446d-8bbb-88ed7da6789b)
